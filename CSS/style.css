@@ -1,0 +1,9 @@
+/* Comentário em CSS*/
+.cabecalho h1{
+    font-size: 40px;
+}    
+.cabecalho a{
+    color: rgb(78, 4, 78);
+    text-decoration: none;   
+    font-size: 20px;
+}
