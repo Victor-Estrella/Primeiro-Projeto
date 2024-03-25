@@ -2,7 +2,11 @@
 h1{
     font-size: 40px;
     color: hotpink;
-}    
+}   
+.link{
+    display: inline;
+    margin: 5%;
+} 
 .cabecalho a{
     color: rgb(78, 4, 78);
     text-decoration: none;   
