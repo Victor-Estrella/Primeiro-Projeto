@@ -1,6 +1,7 @@
 /* Comentário em CSS*/
-.cabecalho h1{
+h1{
     font-size: 40px;
+    color: hotpink;
 }    
 .cabecalho a{
     color: rgb(78, 4, 78);
