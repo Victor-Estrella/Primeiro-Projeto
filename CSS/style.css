@@ -1,14 +1,16 @@
-/* Comentário em CSS*/
+/* Comentário em CSS
+.cabecalho h1{
+    font-size: 24px;
+    color: #333;
+    background-color: red!important;
+} 
 h1{
-    font-size: 40px;
-    color: hotpink;
-}   
+    color:red;
+}  
 .link{
     display: inline;
     margin: 5%;
-} 
-.cabecalho a{
-    color: rgb(78, 4, 78);
-    text-decoration: none;   
-    font-size: 20px;
+} */
+.cabecalho{
+    background-color: blue;
 }
