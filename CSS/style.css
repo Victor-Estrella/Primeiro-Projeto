@@ -27,3 +27,8 @@ h1{
 #conteudo{
     line-height: 1.5;
 }
+form{
+    border-style: solid;
+    border-color: gray;
+    padding: 10px;
+}
