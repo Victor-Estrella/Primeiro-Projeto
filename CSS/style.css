@@ -35,3 +35,7 @@ form{
 p{
     color: green;
 }
+button{
+    background-color: blue;
+    color: white
+}
